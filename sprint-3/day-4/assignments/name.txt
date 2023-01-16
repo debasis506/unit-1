@@ -1,0 +1,2 @@
+let name="debasis"
+let age=24
